@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Search Now",
+  "version": "1.0",
+  "description": "This extension allows you to search YouTube videos by typing in the search bar immediately on page load. That's it!",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "js": [
+        "activate-search.js"
+      ]
+    }
+  ]
+}
