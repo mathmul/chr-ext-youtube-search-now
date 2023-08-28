@@ -17,3 +17,7 @@ document.querySelector('input#search').focus()
 ```
 
 The extension needs no additional permissions, nor does it collect any data.
+
+## Link to Chrome Web Store
+
+[chrome.google.com/webstore/detail/youtube-search-now](https://chrome.google.com/webstore/detail/youtube-search-now/nfbhcehfdnbkehaafccoflaomodlhheb)
