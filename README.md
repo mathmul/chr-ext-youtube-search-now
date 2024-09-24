@@ -18,6 +18,12 @@ document.querySelector('input#search').focus()
 
 The extension needs no additional permissions, nor does it collect any data.
 
-## Link to Chrome Web Store
+## Links
 
-[chrome.google.com/webstore/detail/youtube-search-now](https://chrome.google.com/webstore/detail/youtube-search-now/nfbhcehfdnbkehaafccoflaomodlhheb)
+### Chrome / Brave / Chromium / ...
+
+[chrome.google.com/.../youtube-search-now](https://chrome.google.com/webstore/detail/youtube-search-now/nfbhcehfdnbkehaafccoflaomodlhheb)
+
+### Firefox
+
+[addons.mozilla.org/.../youtube-search-now/](https://addons.mozilla.org/en-US/firefox/addon/youtube-search-now/) ([GitHub repo](https://github.com/mathmul/ff-ext-youtube-search-now))
